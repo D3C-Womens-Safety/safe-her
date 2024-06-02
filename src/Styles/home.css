@@ -1,0 +1,31 @@
+
+
+.title-container {
+    padding: 5%;
+    align-items: end;
+    width: 40%;
+    text-align: left;
+    float: right;
+    color: white;
+    background-color: black;
+    margin-top: 5%;
+    margin-bottom: 30%;
+}
+
+.share-container {
+    float: left;
+    text-align: left;
+    color: white;
+    background-color: black;
+    padding: 5%;
+    align-items: flex-end;
+}
+
+.index {
+    background-image: url("../Images/Squares.svg");
+    background-attachment: scroll;
+    background-size: contain;
+    background-repeat: no-repeat;
+    align-items: center;
+    height: 100vh;
+}

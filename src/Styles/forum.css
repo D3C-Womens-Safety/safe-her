@@ -1,0 +1,108 @@
+.form-intro h1 {
+	text-align: left;
+	color: black;
+	padding: 5%;
+}
+
+.parent {
+  margin: 1rem;
+  padding: 3rem 3rem;
+  text-align: center;
+}
+
+.left-child {
+	display: inline-block;
+	vertical-align: middle;
+	color: black;
+	width: 49%;
+}
+
+.solid {
+	border-top: 3px solid #000;
+}
+
+.emoji-container {
+	margin-bottom: 12px;
+	border-radius: 20px;
+	border-color: black;
+	width: 100%;
+	height: 100%;
+	margin-top: 12px;
+	border: 1px black solid;
+}
+
+.emoji-container p {
+	margin: 2%;
+	letter-spacing: 1rem;
+}
+
+.user-input {
+	margin-bottom: 12px;
+	border-radius: 20px;
+	border-color: black;
+	filter: drop-shadow(2px 3px 4px #ababab);
+	width: 100%;
+	height: 200px;
+	margin-top: 12px;
+}
+
+.left-child .input {
+	margin-bottom: 12px;
+	border-radius: 20px;
+	border-color: black;
+	filter: drop-shadow(2px 3px 4px #ababab);
+	width: 100%;
+	height: 100%;
+	margin-top: 12px;
+}
+
+.right-child {
+  display: inline-block;
+  vertical-align: middle;
+  color: black;
+  width: 49%;
+  text-align: left;
+}
+
+.tile h2 {
+	font-weight: bold;
+	font-size: 30px;
+}
+
+.tile {
+	width:100%;
+	border-radius: 15px;
+	margin: 5%;
+	border: 1px black solid;
+	background-color: white;
+	padding: 2%;
+	filter: drop-shadow(4px 4px 4px #828282);
+}
+
+
+.pink-parent {
+	text-align: left;
+	margin: 12px;
+	color: white;
+	font-weight: bold;
+}
+
+.emoji-child {
+	display: inline-block;
+	background-color: #E9848F;
+	padding: 1rem 1rem;
+	vertical-align: middle;
+	width: 13%;
+	margin-right: 2%;
+	border-radius: 50px;
+}
+
+.pink-child {
+	display: inline-block;
+	background-color: #E9848F;
+	padding: 1rem 1rem;
+	vertical-align: middle;
+	width: 83%;
+	margin-left: 2%;
+	border-radius: 50px;
+}
